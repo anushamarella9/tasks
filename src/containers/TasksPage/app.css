@@ -1,0 +1,11 @@
+td.cell,th.cell {
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-collapse: collapse;
+  text-align: left;
+  /* width: 100%; */
+}
+
+thead, tbody{
+  /* display:inline-block; */
+}
